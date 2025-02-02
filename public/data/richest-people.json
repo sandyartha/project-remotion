@@ -1,0 +1,191 @@
+[ 
+  {
+    "name": "Bagus Sandyartha",
+    "netWorth": "$290B",
+    "company": "Bakul pecel, Srabutan",
+    "image": "https://randomuser.me/api/portraits/men/25.jpg",
+    "rank": 0,
+    "change": "+$20B",
+    "country": "Indonesia"
+  },
+  {
+    "name": "Elon Musk",
+    "netWorth": "$250B",
+    "company": "Tesla, SpaceX",
+    "image": "https://randomuser.me/api/portraits/men/70.jpg",
+    "rank": 1,
+    "change": "+$20B",
+    "country": "United States"
+  },
+  {
+    "name": "Jeff Bezos",
+    "netWorth": "$180B",
+    "company": "Amazon",
+    "image": "https://randomuser.me/api/portraits/men/56.jpg",
+    "rank": 2,
+    "change": "-$5B",
+    "country": "United States"
+  },
+  {
+    "name": "Bernard Arnault",
+    "netWorth": "$190B",
+    "company": "LVMH",
+    "image": "https://randomuser.me/api/portraits/men/54.jpg",
+    "rank": 3,
+    "change": "+$15B",
+    "country": "France"
+  },
+  {
+    "name": "Bill Gates",
+    "netWorth": "$130B",
+    "company": "Microsoft",
+    "image": "https://randomuser.me/api/portraits/men/96.jpg",
+    "rank": 4,
+    "change": "+$8B",
+    "country": "United States"
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "netWorth": "$120B",
+    "company": "Meta",
+    "image": "https://randomuser.me/api/portraits/men/34.jpg",
+    "rank": 5,
+    "change": "-$10B",
+    "country": "United States"
+  },
+  {
+    "name": "Warren Buffett",
+    "netWorth": "$110B",
+    "company": "Berkshire Hathaway",
+    "image": "https://randomuser.me/api/portraits/men/26.jpg",
+    "rank": 6,
+    "change": "+$5B",
+    "country": "United States"
+  },
+  {
+    "name": "Larry Page",
+    "netWorth": "$105B",
+    "company": "Google",
+    "image": "https://randomuser.me/api/portraits/men/51.jpg",
+    "rank": 7,
+    "change": "+$3B",
+    "country": "United States"
+  },
+  {
+    "name": "Sergey Brin",
+    "netWorth": "$102B",
+    "company": "Google",
+    "image": "https://randomuser.me/api/portraits/men/66.jpg",
+    "rank": 8,
+    "change": "+$3B",
+    "country": "United States"
+  },
+  {
+    "name": "Steve Ballmer",
+    "netWorth": "$100B",
+    "company": "Microsoft",
+    "image": "https://randomuser.me/api/portraits/men/73.jpg",
+    "rank": 9,
+    "change": "+$7B",
+    "country": "United States"
+  },
+  {
+    "name": "Mukesh Ambani",
+    "netWorth": "$95B",
+    "company": "Reliance Industries",
+    "image": "https://randomuser.me/api/portraits/men/46.jpg",
+    "rank": 10,
+    "change": "+$4B",
+    "country": "India"
+  },
+  {
+    "name": "Gautam Adani",
+    "netWorth": "$90B",
+    "company": "Adani Group",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "rank": 11,
+    "change": "+$5B",
+    "country": "India"
+  },
+  {
+    "name": "Francoise Bettencourt Meyers",
+    "netWorth": "$85B",
+    "company": "L'Oreal",
+    "image": "https://randomuser.me/api/portraits/women/45.jpg",
+    "rank": 12,
+    "change": "+$3B",
+    "country": "France"
+  },
+  {
+    "name": "Amancio Ortega",
+    "netWorth": "$80B",
+    "company": "Zara",
+    "image": "https://randomuser.me/api/portraits/men/44.jpg",
+    "rank": 13,
+    "change": "+$2B",
+    "country": "Spain"
+  },
+  {
+    "name": "Carlos Slim",
+    "netWorth": "$75B",
+    "company": "America Movil",
+    "image": "https://randomuser.me/api/portraits/men/43.jpg",
+    "rank": 14,
+    "change": "+$1B",
+    "country": "Mexico"
+  },
+  {
+    "name": "Alice Walton",
+    "netWorth": "$70B",
+    "company": "Walmart",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "rank": 15,
+    "change": "+$2B",
+    "country": "United States"
+  },
+  {
+    "name": "Jim Walton",
+    "netWorth": "$68B",
+    "company": "Walmart",
+    "image": "https://randomuser.me/api/portraits/men/42.jpg",
+    "rank": 16,
+    "change": "+$1B",
+    "country": "United States"
+  },
+  {
+    "name": "Rob Walton",
+    "netWorth": "$67B",
+    "company": "Walmart",
+    "image": "https://randomuser.me/api/portraits/men/41.jpg",
+    "rank": 17,
+    "change": "+$1B",
+    "country": "United States"
+  },
+  {
+    "name": "Michael Bloomberg",
+    "netWorth": "$60B",
+    "company": "Bloomberg LP",
+    "image": "https://randomuser.me/api/portraits/men/40.jpg",
+    "rank": 18,
+    "change": "+$2B",
+    "country": "United States"
+  },
+  {
+    "name": "Jack Ma",
+    "netWorth": "$55B",
+    "company": "Alibaba",
+    "image": "https://randomuser.me/api/portraits/men/39.jpg",
+    "rank": 19,
+    "change": "+$3B",
+    "country": "China"
+  },
+  {
+    "name": "Ma Huateng",
+    "netWorth": "$50B",
+    "company": "Tencent",
+    "image": "https://randomuser.me/api/portraits/men/38.jpg",
+    "rank": 20,
+    "change": "+$2B",
+    "country": "China"
+  }
+]
